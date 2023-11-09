@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C321A228-41CA-0DA4-63CE-CC91889390BE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Networked3rdPersCode",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
